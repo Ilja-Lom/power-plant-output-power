@@ -1,6 +1,3 @@
-# power-plant-output-power
-This project aims at predicting the output power of a power station by utilising linear regression.
-
 # Introduction to the data
 
 This is a project based on the following dataset:
